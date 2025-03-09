@@ -1,0 +1,46 @@
+# Query: st
+# ContextLines: 1
+
+63 results - 1 file
+
+C:\Users\DUSH\Desktop\wd\index.html:
+   3  <head>
+   4:     <meta charset="UTF-8">
+   5:     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>Rwandan Transport Services</title>
+   7:     <link rel="stylesheet" href="styles.css">
+   8  </head>
+   9  <body>
+  10:     <header class="header">
+  11:         <nav class="navbar">
+  12              <ul>
+
+  15                  <li><a href="#uruganiriro">Uruganiriro</a></li>
+  16:                 <li><a href="#ubufasha">Ubufasha</a></li>
+  17                  <li><a href="#kwinjira">Kwinjira</a></li>
+  18:                 <li><a href="#kwiyandikisha">Kwiyandikisha</a></li>
+  19              </ul>
+  20          </nav>
+  21:         <div class="search-bar-container">
+  22:             <input type="text" class="search-bar" placeholder="Ukeneye iki cyangwa ubuhe bufasha?">
+  23:             <button class="search-button">Search</button>
+  24:             <button class="voice-button">🎤</button>
+  25          </div>
+  26      </header>
+  27:     <main class="main">
+  28:         <section class="content">
+  29:             <div class="item">
+  30:                 <img src="car1.jpg" alt="Car 1" class="car-image">
+  31:                 <button class="buy-ticket">Gura Tike</button>
+  32:                 <h3>Kampani: Kampani A<br>Icyo Ikora: Gutwara abantu<br>Akamaro: Kunoza ingendo<br>Icyo Izafasha Abaturage: Kongera umutekano mu ngendo</h3>
+  33              </div>
+  34:             <div class="item">
+  35:                 <img src="car2.jpg" alt="Car 2" class="car-image">
+  36:                 <button class="buy-ticket">Gura Tike</button>
+  37:                 <h3>Kampani: Kampani B<br>Icyo Ikora: Gutwara ibintu<br>Akamaro: Gutanga serivisi zizewe<br>Icyo Izafasha Abaturage: Kongera ubucuruzi</h3>
+  38              </div>
+  39:         </section>
+  40:         <aside class="sidebar"></aside>
+  41      </main>
+  42:     <footer class="footer">
+  43          <p>Copyright &copy; 2025</p>

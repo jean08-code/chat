@@ -1,0 +1,95 @@
+/* CSS - styles.css */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+.header {
+    text-align: center;
+    height: 400px;
+    background-color: black;
+    color: white;
+}
+
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 0;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+    margin-left: 2px;
+}
+
+.search-bar-container {
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+.search-bar {
+    padding: 8px;
+    border: 2px solid #006400;
+    border-radius: 4px;
+}
+
+.search-button, .voice-button {
+    background-color: #006400;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    flex-grow: 1;
+}
+
+.item {
+    text-align: center;
+}
+
+.car-image {
+    width: 150px;
+    height: 250px;
+    object-fit: cover;
+    border: 2px solid #006400;
+}
+
+.buy-ticket {
+    background-color: #006400;
+    color: white;
+    border: none;
+    padding: 8px;
+    margin-top: 8px;
+    border-radius: 4px;
+}
+
+.sidebar {
+    width: 150px;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+    color: white;
+}
